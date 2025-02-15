@@ -8,7 +8,7 @@ Bresenham’s Line Algorithm
     Implemented to draw lines in all eight octants using the setPixel() function.
     Validated by comparing results against Processing’s line() function.
     
-    ![image](https://github.com/user-attachments/assets/d0a26bd3-4a38-4f57-86f1-c31a10b17a10)
+![image](https://github.com/user-attachments/assets/d0a26bd3-4a38-4f57-86f1-c31a10b17a10)
 
 3D Triangle Rendering
 
@@ -24,7 +24,7 @@ Surface Tessellation
     Supported multiple shapes including a hyperboloid, sphere, and cone.
     Allowed adjustable tessellation parameters for different levels of detail.
 
-    ![image](https://github.com/user-attachments/assets/2bbaa611-1b26-4b94-8291-531fd8cec2f3)
+![image](https://github.com/user-attachments/assets/2bbaa611-1b26-4b94-8291-531fd8cec2f3)
 
 
 Scan-line Triangle Fill Algorithm
@@ -37,7 +37,7 @@ Lighting and Shading
     Implemented Phong lighting calculations for rendering.
     Supported face-level Phong lighting, vertex-level Phong lighting, Gouraud shading, and Phong shading.
 
-    ![image](https://github.com/user-attachments/assets/3f17ccf1-6c90-4e62-819a-ad2feeacbe88)
+![image](https://github.com/user-attachments/assets/3f17ccf1-6c90-4e62-819a-ad2feeacbe88)
 
 
 Code Structure and Optimization
